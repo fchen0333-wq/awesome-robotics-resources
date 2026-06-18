@@ -8,4 +8,4 @@ A curated list of notes and links regarding Vision-Language-Action models.
 - **RTAB-Map**: Real-time appearance-based mapping.
 - **Kimera-VIO**: Metric-semantic SLAM system suitable for embedded CPUs.
 
-*Note: Continually updated for latest framework alignment.*
+*Note: Continually updated for latest framework alignment..*
