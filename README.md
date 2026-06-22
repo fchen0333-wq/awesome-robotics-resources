@@ -14,9 +14,10 @@ Notice for Reviewers: This repository is maintained by an active developer and h
 Currently running sandbox tests for the Konnex: Ingest phase. The `telemetry_logger.py` and `data_validator.py` scripts are used to handle check_packet filtering and quick logging for the current local PoPW integration.
 
 ## References
-* [OpenVLA Project Page](https://github.io)
-* [ORB-SLAM3 Source](https://github.com)
-* [RTAB-Map Documentation](https://github.io)
-* [Kimera-VIO Source](https://github.com)
+* [OpenVLA Project Page](https://github.com/openvla/openvla)
+* [ORB-SLAM3 Source](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+* [RTAB-Map Documentation](https://github.com/introlab/rtabmap)
+* [Kimera-VIO Source](https://github.com/MIT-SPARK/Kimera-VIO)
+
 
 *Note: Continually updated for latest framework alignment.*
