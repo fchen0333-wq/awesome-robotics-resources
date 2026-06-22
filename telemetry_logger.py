@@ -11,7 +11,7 @@ class KonnexLocalTester:
         print(f"[*] Init test node: {self.node_id} | Holder of {self.nfts} units")
 
     def connect(self):
-        time.sleep(0.5)
+        time.sleep(0.2) #optimize telemetry stream latency
         self.connected = True
         print("[+] sandbox connected.")
 
